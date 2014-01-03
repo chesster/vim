@@ -1,0 +1,15 @@
+[submodule "sources_non_forked/vim-ctrlspace"]
+	path = sources_non_forked/vim-ctrlspace
+	url = https://github.com/szw/vim-ctrlspace
+[submodule "sources_non_forked/syntastic"]
+	path = sources_non_forked/syntastic
+	url = https://github.com/scrooloose/syntastic
+[submodule "sources_non_forked/vim-easymotion"]
+	path = sources_non_forked/vim-easymotion
+	url = https://github.com/Lokaltog/vim-easymotion.git
+[submodule "sources_non_forked/tagbar"]
+	path = sources_non_forked/tagbar
+	url = git://github.com/majutsushi/tagbar
+[submodule "sources_non_forked/sparkup"]
+	path = sources_non_forked/sparkup
+	url = https://github.com/rstacruz/sparkup.git
